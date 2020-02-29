@@ -16,6 +16,6 @@ Techs:
 
 More details at (pt-BR only)
 
-[Bruno Brito - ASP.NET Core - Como assinar digitalmente seu JWT](https://www.brunobrito.net.br/jwt-assinaura-digital-rsa-ecdsa/) 
+[Bruno Brito - ASP.NET Core - Como assinar digitalmente seu JWT](https://www.brunobrito.net.br/jwt-assinaura-digital-rsa-ecdsa-hmac/) 
 
 

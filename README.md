@@ -1,5 +1,4 @@
 # Example - Testing many Cryptographic algorithms to digitally signing JWT
-Utilizando o QueryMultiple
 
 <img src="https://brunobrito.ghost.io/content/images/2020/02/capa-redes-sociais-3.png" width="480" />
 
@@ -14,8 +13,6 @@ Techs:
 * Microsoft.IdentityModel.JsonWebTokens
 
 
-More details at (pt-BR only)
+More details at (pt-BR only): 
 
 [Bruno Brito - ASP.NET Core - Como assinar digitalmente seu JWT](https://www.brunobrito.net.br/jwt-assinaura-digital-rsa-ecdsa-hmac/) 
-
-
